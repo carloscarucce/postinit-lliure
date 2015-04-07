@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<configuracoes>
+	<nome>PostinIT 2</nome>
+	<seguranca>etc/postinit/segur.ll</seguranca>	
+</configuracoes>

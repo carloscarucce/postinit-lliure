@@ -1,0 +1,8 @@
+
+*
+* PostinIT | lliure 4.10 +
+*
+* @Versão 2.0
+* @Desenvolvedor Carlos Alberto Bertholdo Carucce <carloscarucce@gmail.com>
+* @Licença GPL 3 ou superior, conforme lido em LICENSE.TXT
+*
